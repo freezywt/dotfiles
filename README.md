@@ -4,10 +4,10 @@
 <div align="center">
    <p></p>
    <a href="https://github.com/freezywt/dotfiles/stargazers">
-      <img src="https://img.shields.io/github/stars/janleigh/dotfiles?color=%238dc776&labelColor=%23101415&style=for-the-badge">
+      <img src="https://img.shields.io/github/stars/freezy/dotfiles?color=%238dc776&labelColor=%23101415&style=for-the-badge">
    </a>
    <a href="https://github.com/jfreezywt/dotfiles/network/members/">
-      <img src="https://img.shields.io/github/forks/janleigh/dotfiles?color=%2384a0c6&labelColor=%23101415&style=for-the-badge">
+      <img src="https://img.shields.io/github/forks/freezy/dotfiles?color=%2384a0c6&labelColor=%23101415&style=for-the-badge">
    </a>
    <img src="https://img.shields.io/github/repo-size/freezywt/dotfiles?color=%23f65b5b&labelColor=%23101415&style=for-the-badge">
    <a href="https://discord.gg/5CQnMBX2Rp">
@@ -21,7 +21,7 @@
 ---
 
 <!-- INFORMATION -->
-### ❖ Information <img alt="" align="right" src="https://badges.pufler.dev/visits/janleigh/dotfiles?style=for-the-badge&color=91e6b1&logoColor=white&labelColor=101415"/>
+### ❖ Information <img alt="" align="right" src="https://badges.pufler.dev/visits/freezy/dotfiles?style=for-the-badge&color=91e6b1&logoColor=white&labelColor=101415"/>
 
    <img src="/preview.png" alt="Repo Preview" align="right" width="400px">
 
